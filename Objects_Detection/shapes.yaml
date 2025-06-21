@@ -1,0 +1,6 @@
+path: /home/user1/Projects/Payload_Drop/yolo_shapes_dataset
+train: images/train
+val: images/val
+
+nc: 4
+names: ['Rectangle', 'Square', 'Circle', 'Triangle']

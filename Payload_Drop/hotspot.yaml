@@ -1,0 +1,6 @@
+path: C:\\Users\\kabhi\\Downloads\\Payload_Drop\\Payload_Drop\\yolo_hotspot_data
+train: images/train
+val: images/val
+
+nc: 1
+names: ['hotspot']
