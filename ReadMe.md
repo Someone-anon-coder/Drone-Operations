@@ -178,7 +178,3 @@ The `distance_estimater.py` script can be integrated into your main flight contr
 This project is intended for research and educational purposes.
 
 ---
-
-## Authors
-
-Drone Operation and
